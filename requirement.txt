@@ -1,0 +1,6 @@
+python
+pandas
+matplotlib
+tensorflow
+git
+gitbash
